@@ -1,2 +1,2 @@
 # Module-7-MIPT
-This is my MuleSoft Internship Program Training Module 7.
+This is my module 7 for MuleSoft Internship Program Training.
